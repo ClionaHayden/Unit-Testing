@@ -71,14 +71,6 @@ int main()
 	}
 
 
-	//Production p;
-	//p.someMethod(10);
-
-	//int result = 0;
-	//std::cin >> result;
-
-	//bool isValid = p.checkValidInRange(result);
-
 	system("pause");
 	return 0;
 }
